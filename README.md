@@ -10,10 +10,15 @@ One number that indicates the number of islands on the map.
 
 ### Sample Input:
 5
+
 00100
+
 10000
+
 10000
+
 01100
+
 01111
 
 ### Sample Output:
