@@ -9,17 +9,12 @@ The first line contains number n, the size of the map. Each of the following n l
 One number that indicates the number of islands on the map.
 
 ### Sample Input:
-5
-
-00100
-
-10000
-
-10000
-
-01100
-
-01111
+5 <br />
+00100 <br />
+10000 <br />
+10000 <br />
+01100 <br />
+01111 <br />
 
 ### Sample Output:
 3
